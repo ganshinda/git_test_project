@@ -1,3 +1,5 @@
-hellow AudioWorkletNode;
+var test = function () {
+
+}
 
 // added new comment
