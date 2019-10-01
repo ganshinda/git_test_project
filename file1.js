@@ -1,6 +1,6 @@
 var test = function () {
 	var change = 'create some changes ';
-	// thats from branch add-feature-1
+	// some changes in same place in master
 
 	//another changes at same line but in master branch!!! 
 
