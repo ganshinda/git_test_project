@@ -12,4 +12,5 @@ and more and more */
 .colors_in_page {
 	border-color: coral;
 	border: 1px solid cornsilk;
+	box-shadow: 2px 0 0 red;
 }
